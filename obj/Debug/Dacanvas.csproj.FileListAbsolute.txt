@@ -1,0 +1,9 @@
+C:\Users\M\source\repos\Dacanvas\Dacanvas\bin\Debug\Dacanvas.exe.config
+C:\Users\M\source\repos\Dacanvas\Dacanvas\bin\Debug\Dacanvas.exe
+C:\Users\M\source\repos\Dacanvas\Dacanvas\bin\Debug\Dacanvas.pdb
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.Form1.resources
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.Properties.Resources.resources
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.csproj.GenerateResource.cache
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.exe
+C:\Users\M\source\repos\Dacanvas\Dacanvas\obj\Debug\Dacanvas.pdb
